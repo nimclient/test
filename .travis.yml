@@ -1,0 +1,12 @@
+language: python
+python:
+  - 2.7
+install:
+branches:
+  only:
+    - develop
+script:
+  - echo test
+notifications:
+  slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT
+
