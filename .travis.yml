@@ -6,7 +6,8 @@ branches:
   only:
     - develop
 script:
-  - echo test
+  - cd fabric
+  - fab dev_reload -u nimclient -H usamof.com
 notifications:
   slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT
 
