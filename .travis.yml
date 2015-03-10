@@ -8,7 +8,7 @@ branches:
     - develop
 script:
   - cd fabric
-  - fab dev_reload -u nimclient -H usamof.com
+  - fab dev_reload -u nimclient -H usamof.com --port 22022
 notifications:
   slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT
 
