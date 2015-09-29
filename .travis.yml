@@ -9,4 +9,4 @@ branches:
 script:
   - cd fabric
 notifications:
-  slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT#random
+  slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT#portal
