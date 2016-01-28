@@ -11,4 +11,4 @@ script:
 notifications:
   slack:
     rooms:
-      - mofmof:crERQDlnbbHVGyq2lGZ0ydJT#travis
+      - mofmof:crERQDlnbbHVGyq2lGZ0ydJT#web
