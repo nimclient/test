@@ -9,4 +9,6 @@ branches:
 script:
   - cd fabric
 notifications:
-  slack: mofmof:crERQDlnbbHVGyq2lGZ0ydJT#web
+  slack:
+    rooms:
+      - mofmof:crERQDlnbbHVGyq2lGZ0ydJT#web
